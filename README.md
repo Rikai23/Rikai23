@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/user-attachments/assets/56983432-332d-4798-b3b2-2dc35fdbcba4)](https://vk.com/rikai23)
+[![MasterHead](https://github.com/user-attachments/assets/56983432-332d-4798-b3b2-2dc35fdbcba4)](https://vk.com/rikai23)
 ## Hi there 👋
 
 <!--
