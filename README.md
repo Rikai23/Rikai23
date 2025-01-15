@@ -1,4 +1,4 @@
-[![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWlvZ2prMzA1dm9jMGowY3NjdTExaHFzbGg1amQ3YTlrczU1OWd6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif)](https://vk.com/rikai23)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7cOLfdslRE2fBIuClIihmwqHL_crzhOe_kIS7Ui_i1yqRO-axQo8GbwYdZZldhWa_S6I&usqp=CAU)](https://vk.com/rikai23)
 ## Hi there 👋
 
 <!--
