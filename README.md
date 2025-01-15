@@ -1,5 +1,7 @@
+![gitHub_Hi_I](https://github.com/user-attachments/assets/446bff20-ee2a-41ce-b6fa-e21735d4af5d)
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7cOLfdslRE2fBIuClIihmwqHL_crzhOe_kIS7Ui_i1yqRO-axQo8GbwYdZZldhWa_S6I&usqp=CAU)](https://vk.com/rikai23)
 ## Hi there 👋
+![gitHub_Hi_I](https://github.com/user-attachments/assets/905166d4-de90-46ca-b1de-beb692afd9ad)
 
 <!--
 **Rikai23/Rikai23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
