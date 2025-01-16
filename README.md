@@ -22,8 +22,10 @@ I am a software engineer with over 4 years of experience and a self-proclaimed g
 
 ### 🧰 Languages and Tools:
 <p aligh="left">
-<a href="https://vk.com/rikai23" target="blank"><img align="centre" src="https://www.jetbrains.com/teamcity/integrations/build-tools/img/c_sharp_logo.png" width="40" height="40"></a>
-<a href="https://t.me/Rikai_04" target="blank"><img align="centre" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png" width="40" height="40"></a>
+<a href="https://dotnet.microsoft.com/ru-ru/languages/csharp" target="blank"><img align="centre" src="https://www.jetbrains.com/teamcity/integrations/build-tools/img/c_sharp_logo.png" width="40" height="40"></a>
+<a href="https://t.me/Rikai_04" target="blank"><img align="centre" src="https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2019/01/visualstudio-1.png" width="40" height="40"></a>
+<a href="https://www.adobe.com/ru/products/photoshop.html" target="blank"><img align="centre" src="https://openlab.bmcc.cuny.edu/media-arts-and-technology/wp-content/uploads/sites/395/2021/12/Adobe-Photoshop-Logo-2048x1152.png" width="40" height="40"></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="blank"><img align="centre" src="https://kirov-grand-service.ru/templates/abc-theme/images/companilogo/Candy.png" width="40" height="40"></a>
 </p>
   
 
