@@ -3,7 +3,10 @@
 
 **Digital Craftsman (Developer/Programmer/Creator)**
 
-markdown
+I am a software engineer with over 4 years of experience and a self-proclaimed game developer specializing in the Unity engine.
+
+- 📫 How to reach me air.games.company@gmail.com
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
