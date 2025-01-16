@@ -22,11 +22,11 @@ I am a software engineer with over 4 years of experience and a self-proclaimed g
 
 ### 🧰 Languages and Tools:
 <p aligh="left">
-<a href="https://dotnet.microsoft.com/ru-ru/languages/csharp" target="blank"><img align="centre" src="https://github.com/user-attachments/assets/de4326c0-2f35-4b52-a34e-f37ce1b91acc" width="40" height="40"></a>
-<a href="https://visualstudio.softwareprize.com/" target="blank"><img align="centre" src="https://github.com/user-attachments/assets/06feaa1c-cf5f-4c35-919b-77ac282cb8ba" width="40" height="40"></a>
-<a href="https://www.adobe.com/ru/products/photoshop.html" target="blank"><img align="centre" src="https://github.com/user-attachments/assets/d25e302b-0a8e-4fd0-a5c9-2f2698bd844f" width="40" height="40"></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="blank"><img align="centre" src="https://github.com/user-attachments/assets/84e1138d-e3ad-4993-a615-3863272822b7" width="40" height="40"></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="blank"><img align="centre" src="https://img.informer.com/icons/png/32/1716/1716169.png" width="40" height="40"></a>
+<a href="https://dotnet.microsoft.com/ru-ru/languages/csharp" target="blank"><img align="centre" src="https://github.com/user-attachments/assets/de4326c0-2f35-4b52-a34e-f37ce1b91acc" width="50" height="50"></a>
+<a href="https://visualstudio.softwareprize.com/" target="blank"><img align="centre" src="https://github.com/user-attachments/assets/06feaa1c-cf5f-4c35-919b-77ac282cb8ba" width="50" height="50"></a>
+<a href="https://www.adobe.com/ru/products/photoshop.html" target="blank"><img align="centre" src="https://github.com/user-attachments/assets/d25e302b-0a8e-4fd0-a5c9-2f2698bd844f" width="50" height="50"></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="blank"><img align="centre" src="https://github.com/user-attachments/assets/84e1138d-e3ad-4993-a615-3863272822b7" width="50" height="50"></a>
+<a href="https://manualmachine.com/analogdevices/w45/8437926-started-guide/" target="blank"><img align="centre" src="https://img.informer.com/icons/png/32/1716/1716169.png" width="50" height="50"></a>
 </p>
   
 
