@@ -1,9 +1,8 @@
 [![MasterHead](https://github.com/user-attachments/assets/56983432-332d-4798-b3b2-2dc35fdbcba4)](https://vk.com/rikai23)
 # 👨🏻‍💻 Rikai23
 
+<img align="right" alt="Coding" width="400" src = "https://i.pinimg.com/originals/eb/ec/d4/ebecd4010e549f33371d741d46b9b607.gif">
 **Digital Craftsman (Developer/Programmer/Creator)**
-
-<img align="right" alt="Coding" width="400" src = "https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 I am a software engineer with over 4 years of experience and a self-proclaimed game developer specializing in the Unity engine.
 
