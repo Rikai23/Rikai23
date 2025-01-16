@@ -22,10 +22,10 @@ I am a software engineer with over 4 years of experience and a self-proclaimed g
 
 ### 🧰 Languages and Tools:
 <p aligh="left">
-<a href="https://dotnet.microsoft.com/ru-ru/languages/csharp" target="blank"><img align="centre" src="![image](https://github.com/user-attachments/assets/d60e9149-0629-4fc1-8e3d-ff34b2d62b30)" width="40" height="40"></a>
+<a href="https://dotnet.microsoft.com/ru-ru/languages/csharp" target="blank"><img align="centre" src="https://i.ytimg.com/vi/ZFMugn2_gwI/maxresdefault.jpg" width="40" height="40"></a>
 <a href="https://t.me/Rikai_04" target="blank"><img align="centre" src="https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2019/01/visualstudio-1.png" width="40" height="40"></a>
 <a href="https://www.adobe.com/ru/products/photoshop.html" target="blank"><img align="centre" src="https://openlab.bmcc.cuny.edu/media-arts-and-technology/wp-content/uploads/sites/395/2021/12/Adobe-Photoshop-Logo-2048x1152.png" width="40" height="40"></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="blank"><img align="centre" src="https://kirov-grand-service.ru/templates/abc-theme/images/companilogo/Candy.png" width="40" height="40"></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="blank"><img align="centre" src="https://avatars.mds.yandex.net/i?id=669ed5756aac5df669a981a860200bb1_l-5285663-images-thumbs&n=13" width="40" height="40"></a>
 </p>
   
 
