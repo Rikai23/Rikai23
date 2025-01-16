@@ -19,11 +19,10 @@ I am a software engineer with over 4 years of experience and a self-proclaimed g
 </p>
 
 ---
-![Csharp1](https://github.com/user-attachments/assets/82f0493f-49c0-4f55-84cd-27779ada35aa)
 
 ### 🧰 Languages and Tools:
 <p aligh="left">
-<a href="https://dotnet.microsoft.com/ru-ru/languages/csharp" target="blank"><img align="centre" src="![image](https://github.com/user-attachments/assets/de4326c0-2f35-4b52-a34e-f37ce1b91acc)" width="40" height="40"></a>
+<a href="https://dotnet.microsoft.com/ru-ru/languages/csharp" target="blank"><img align="centre" src="https://github.com/user-attachments/assets/de4326c0-2f35-4b52-a34e-f37ce1b91acc" width="40" height="40"></a>
 <a href="https://t.me/Rikai_04" target="blank"><img align="centre" src="https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2019/01/visualstudio-1.png" width="40" height="40"></a>
 <a href="https://www.adobe.com/ru/products/photoshop.html" target="blank"><img align="centre" src="https://openlab.bmcc.cuny.edu/media-arts-and-technology/wp-content/uploads/sites/395/2021/12/Adobe-Photoshop-Logo-2048x1152.png" width="40" height="40"></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="blank"><img align="centre" src="https://avatars.mds.yandex.net/i?id=669ed5756aac5df669a981a860200bb1_l-5285663-images-thumbs&n=13" width="40" height="40"></a>
