@@ -7,6 +7,7 @@
 
 I am a software engineer with over 4 years of experience and a self-proclaimed game developer specializing in the Unity engine.  <br/>   <br/>
 
+- 🌱 I always strive to learn something new
 - 📫 How to reach me air.games.company@gmail.com  
 - ⚡ Fun fact: if everything worked the first time, then something is wrong.  
 
