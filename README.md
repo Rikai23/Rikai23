@@ -34,7 +34,11 @@ I am a software engineer with over 4 years of experience and a self-proclaimed g
 <a href="https://www.python.org/" target="blank"><img align="centre" src="https://github.com/user-attachments/assets/1ecb8dc7-cde8-4e7f-a2c3-bef56f3933c2" width="50" height="50"></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rikai23&show_icons=true&locale=en&layout=compact" alt="Rikai23" /></p>
+---
+
+### 🔨 My works:
+<a href="https://www.rustore.ru/catalog/app/com.AIRGames.SpaceTravel"><img src="RELATIVE_PATH_TO_IMAGE"></img></a>
+
   
 
 
