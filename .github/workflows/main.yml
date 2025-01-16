@@ -23,15 +23,9 @@ on:
   
   
   #This command allows us to run the Action automatically from the Actions tab.
-
-
-workflow_dispatch:
-
-
-
+workflow_dispatch:  
   
-  
-  The sequence of runs in this workflow:
+  #The sequence of runs in this workflow:
 
 
 jobs:
