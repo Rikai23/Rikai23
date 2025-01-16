@@ -18,6 +18,10 @@ I am a software engineer with over 4 years of experience and a self-proclaimed g
 <a href="https://t.me/Rikai_04" target="blank"><img align="centre" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png" width="40" height="40"></a>
 </p>
 
+---
+
+### 🧰 Languages and Tools:
+
   
 
 
