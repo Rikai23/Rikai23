@@ -3,7 +3,7 @@
 
 **Digital Craftsman (Developer/Programmer/Creator)**
 
-<img align="right" alt="Coding" width="350" src = "https://i.pinimg.com/originals/eb/ec/d4/ebecd4010e549f33371d741d46b9b607.gif">
+<img align="right" alt="Coding" width="400" src = "https://i.pinimg.com/originals/eb/ec/d4/ebecd4010e549f33371d741d46b9b607.gif">
 I am a software engineer with over 4 years of experience and a self-proclaimed game developer specializing in the Unity engine.
 
 - 📫 How to reach me air.games.company@gmail.com  
