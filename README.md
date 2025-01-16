@@ -21,7 +21,10 @@ I am a software engineer with over 4 years of experience and a self-proclaimed g
 ---
 
 ### 🧰 Languages and Tools:
-
+<p aligh="left">
+<a href="https://vk.com/rikai23" target="blank"><img align="centre" src="https://www.jetbrains.com/teamcity/integrations/build-tools/img/c_sharp_logo.png" width="40" height="40"></a>
+<a href="https://t.me/Rikai_04" target="blank"><img align="centre" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png" width="40" height="40"></a>
+</p>
   
 
 
