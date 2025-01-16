@@ -3,11 +3,15 @@
 
 **Digital Craftsman (Developer/Programmer/Creator)**
 
+<img align="right" alt="Coding" width"400" src = "https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+
 I am a software engineer with over 4 years of experience and a self-proclaimed game developer specializing in the Unity engine.
 
 - 📫 How to reach me air.games.company@gmail.com
+- ⚡ Fun fact: if everything worked the first time, then something is wrong.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+
 
 <!--
 **Rikai23/Rikai23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
