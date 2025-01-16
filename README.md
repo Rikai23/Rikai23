@@ -31,6 +31,8 @@ I am a software engineer with over 4 years of experience and a self-proclaimed g
 <a href="https://ru.wikipedia.org/wiki/C%2B%2B" target="blank"><img align="centre" src="https://github.com/user-attachments/assets/e05f00ef-e61a-4332-a4ee-1612ba09c70a" width="50" height="50"></a>
 <a href="https://ru.wikipedia.org/wiki/C%2B%2B_Builder" target="blank"><img align="centre" src="https://2.bp.blogspot.com/-9oC_d-fYlj0/V0LV92BwRCI/AAAAAAAAAbU/2TMoi0QUOxIcDPTgayCWvb3joktTnTu6gCKgB/s1600/hqdefault.jpg" width="50" height="50"></a>
 <a href="https://www.blender.org/" target="blank"><img align="centre" src="https://github.com/user-attachments/assets/8c9c9ec8-d6da-4ce5-9448-9096702b2cbe" width="50" height="50"></a>
+<a href="https://www.python.org/" target="blank"><img align="centre" src="https://github.com/user-attachments/assets/1ecb8dc7-cde8-4e7f-a2c3-bef56f3933c2" width="50" height="50"></a>
+
 </p>
   
 
