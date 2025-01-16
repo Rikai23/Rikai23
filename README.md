@@ -37,7 +37,8 @@ I am a software engineer with over 4 years of experience and a self-proclaimed g
 ---
 
 ### 🔨 My works:
-<a href="https://www.rustore.ru/catalog/app/com.AIRGames.SpaceTravel"><img src="RELATIVE_PATH_TO_IMAGE"></img></a>
+
+[![Game for Android // SpaceTravel](https://static.rustore.ru/imgproxy/1qu310LyrbXPXdTsOHW8HJWm0oSsW-9mFKRAeQaz_00/preset:app_card_icon/aHR0cHM6Ly9zdGF0aWMucnVzdG9yZS5ydS9hcGsvMjA2MzU3MjAyOS9jb250ZW50L0lDT04vOTY4N2ZjNDEtODIwZS00NzRjLWEyMTktZGE3MzhlNTQwYjgzLnBuZw==.webp)](https://www.rustore.ru/catalog/app/com.AIRGames.SpaceTravel)
 
   
 
