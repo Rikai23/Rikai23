@@ -29,7 +29,8 @@ I am a software engineer with over 4 years of experience and a self-proclaimed g
 <a href="https://manualmachine.com/analogdevices/w45/8437926-started-guide/" target="blank"><img align="centre" src="https://img.informer.com/icons/png/32/1716/1716169.png" width="50" height="50"></a>
 <a href="https://unity.com/ru" target="blank"><img align="centre" src="https://github.com/user-attachments/assets/cb1fe760-2f6d-451d-afd5-60b3369a2372" width="50" height="50"></a>
 <a href="https://ru.wikipedia.org/wiki/C%2B%2B" target="blank"><img align="centre" src="https://github.com/user-attachments/assets/e05f00ef-e61a-4332-a4ee-1612ba09c70a" width="50" height="50"></a>
-<a href="https://ru.wikipedia.org/wiki/C%2B%2B" target="blank"><img align="centre" src="https://2.bp.blogspot.com/-9oC_d-fYlj0/V0LV92BwRCI/AAAAAAAAAbU/2TMoi0QUOxIcDPTgayCWvb3joktTnTu6gCKgB/s1600/hqdefault.jpg" width="50" height="50"></a>
+<a href="https://ru.wikipedia.org/wiki/C%2B%2B_Builder" target="blank"><img align="centre" src="https://2.bp.blogspot.com/-9oC_d-fYlj0/V0LV92BwRCI/AAAAAAAAAbU/2TMoi0QUOxIcDPTgayCWvb3joktTnTu6gCKgB/s1600/hqdefault.jpg" width="50" height="50"></a>
+<a href="https://www.blender.org/" target="blank"><img align="centre" src="https://github.com/user-attachments/assets/8c9c9ec8-d6da-4ce5-9448-9096702b2cbe" width="50" height="50"></a>
 </p>
   
 
