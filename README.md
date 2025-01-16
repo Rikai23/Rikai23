@@ -14,7 +14,7 @@ I am a software engineer with over 4 years of experience and a self-proclaimed g
 
 <h3 align="left">Connect with me:</h3>
 <p aligh="left">
-<a href="https://vk.com/rikai23" target="blank"><img align="centre" src ="https://cloud.mail.ru/public/TfKk/QGyS93cW7/PNG%20-%20digital/VK%20Logo%20Black%20%26%20White.png"></a>
+<a href="https://vk.com/rikai23" target="blank"><img align="centre" src ="![VK Logo](https://github.com/user-attachments/assets/c1e16872-e6c2-4de0-a8d7-be1a4c933aec)"></a>
 </p>
 
   
