@@ -38,10 +38,10 @@ I am a software engineer with over 4 years of experience and a self-proclaimed g
 
 ### 🔨 My works:
 
-<a href="https://www.rustore.ru/catalog/app/com.AIRGames.SpaceTravel" target="blank">
+
+<a href="https://www.rustore.ru/catalog/app/com.AIRGames.SpaceTravel">
   <figure>
-    <img align="centre" src="https://static.rustore.ru/imgproxy/1qu310LyrbXPXdTsOHW8HJWm0oSsW-          
-        9mFKRAeQaz_00/preset:app_card_icon/aHR0cHM6Ly9zdGF0aWMucnVzdG9yZS5ydS9hcGsvMjA2MzU3MjAyOS9jb250ZW50L0lDT04vOTY4N2ZjNDEtODIwZS00NzRjLWEyMTktZGE3MzhlNTQwYjgzLnBuZw==.webp" width="250" height="250">
+    <img src="https://static.rustore.ru/imgproxy/1qu310LyrbXPXdTsOHW8HJWm0oSsW-9mFKRAeQaz_00/preset:app_card_icon/aHR0cHM6Ly9zdGF0aWMucnVzdG9yZS5ydS9hcGsvMjA2MzU3MjAyOS9jb250ZW50L0lDT04vOTY4N2ZjNDEtODIwZS00NzRjLWEyMTktZGE3MzhlNTQwYjgzLnBuZw==.webp" alt="demo image" />
     <figcaption>Game for Android / SpaceTravel</figcaption>
   </figure>
 </a>
