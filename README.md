@@ -9,7 +9,13 @@ I am a software engineer with over 4 years of experience and a self-proclaimed g
 
 - 🌱 I always strive to learn something new
 - 📫 How to reach me air.games.company@gmail.com  
-- ⚡ Fun fact: if everything worked the first time, then something is wrong.  
+- ⚡ Fun fact: if everything worked the first time, then something is wrong.
+<br/>   <br/>
+
+<h3 align="left">Connect with me:</h3>
+<p aligh="left">
+<a href="https://vk.com/rikai23" target="blank"><img align="centre" src ="https://cloud.mail.ru/public/TfKk/QGyS93cW7/PNG%20-%20digital/VK%20Logo%20Black%20%26%20White.png"></a>
+</p>
 
   
 
