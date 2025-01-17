@@ -40,8 +40,8 @@ I am a software engineer with over 4 years of experience and a self-proclaimed g
 <figure>
   <a href="https://htmlacademy.ru">
   <img src="images/cat.jpg" width="600" height="250" width="250">
-  </a>
   <figcaption> Game for Android / SpaceTravel</figcaption>
+    </a>
 </figure>
 
 
