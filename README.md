@@ -53,11 +53,12 @@ figcaption {
 </a>
 
 
-<figure>
-  <a href="https://www.rustore.ru/catalog/app/com.AIRGames.SpaceTravel">
-  <img src="https://static.rustore.ru/imgproxy/1qu310LyrbXPXdTsOHW8HJWm0oSsW-9mFKRAeQaz_00/preset:app_card_icon/aHR0cHM6Ly9zdGF0aWMucnVzdG9yZS5ydS9hcGsvMjA2MzU3MjAyOS9jb250ZW50L0lDT04vOTY4N2ZjNDEtODIwZS00NzRjLWEyMTktZGE3MzhlNTQwYjgzLnBuZw==.webp" alt="1" width="250" height="250">
-  <figcaption> Game for Android / SpaceTravel</figcaption>
-</figure>
+<a href="https://www.rustore.ru/catalog/app/com.AIRGames.SpaceTravel">
+  <figure>
+    <img src="https://static.rustore.ru/imgproxy/1qu310LyrbXPXdTsOHW8HJWm0oSsW-9mFKRAeQaz_00/preset:app_card_icon/aHR0cHM6Ly9zdGF0aWMucnVzdG9yZS5ydS9hcGsvMjA2MzU3MjAyOS9jb250ZW50L0lDT04vOTY4N2ZjNDEtODIwZS00NzRjLWEyMTktZGE3MzhlNTQwYjgzLnBuZw==.webp" alt="demo image" width="250" height="250"/>
+    <figcaption>Android game / SpaceTravel</figcaption>
+  </figure>
+</a>
 
 
   
