@@ -37,8 +37,24 @@ I am a software engineer with over 4 years of experience and a self-proclaimed g
 ---
 
 ### 🔨 My works:
+figure {
+  display: inline-block;
+}
+
+figcaption {
+  text-align: center;
+}
+
+<a href="#">
+  <figure>
+    <img src="https://via.placeholder.com/350x150" alt="demo image" />
+    <figcaption>This is an example of a link, it goes nowhere...</figcaption>
+  </figure>
+</a>
+
+
 <figure>
-  <a href="https://htmlacademy.ru">
+  <a href="https://www.rustore.ru/catalog/app/com.AIRGames.SpaceTravel">
   <img src="https://static.rustore.ru/imgproxy/1qu310LyrbXPXdTsOHW8HJWm0oSsW-9mFKRAeQaz_00/preset:app_card_icon/aHR0cHM6Ly9zdGF0aWMucnVzdG9yZS5ydS9hcGsvMjA2MzU3MjAyOS9jb250ZW50L0lDT04vOTY4N2ZjNDEtODIwZS00NzRjLWEyMTktZGE3MzhlNTQwYjgzLnBuZw==.webp" alt="1" width="250" height="250">
   <figcaption> Game for Android / SpaceTravel</figcaption>
 </figure>
