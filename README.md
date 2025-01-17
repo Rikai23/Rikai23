@@ -45,13 +45,6 @@ figcaption {
   text-align: center;
 }
 
-<a href="#">
-  <figure>
-    <img src="https://via.placeholder.com/350x150" alt="demo image" />
-    <figcaption>This is an example of a link, it goes nowhere...</figcaption>
-  </figure>
-</a>
-
 
 <a href="https://www.rustore.ru/catalog/app/com.AIRGames.SpaceTravel">
   <figure>
