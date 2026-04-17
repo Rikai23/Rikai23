@@ -33,7 +33,7 @@ I am a software engineer with over 5 years of professional experience (since 202
 <td><a href="https://manualmachine.com/analogdevices/w50/8438173-licensing-guide/"><img src="https://img.informer.com/icons/png/32/1716/1716169.png" width="50" height="50"></a></td>
 <td><a href="https://ru.wikipedia.org/wiki/C%2B%2B_Builder"><img src="https://2.bp.blogspot.com/-9oC_d-fYlj0/V0LV92BwRCI/AAAAAAAAAbU/2TMoi0QUOxIcDPTgayCWvb3joktTnTu6gCKgB/s1600/hqdefault.jpg" width="50" height="50"></a></td>
 <td><a href="https://unity.com/ru"><img src="https://github.com/Rikai23/Rikai23/blob/main/404044105-cb1fe760-2f6d-451d-afd5-60b3369a2372.png?raw=true" width="50" height="50"></a></td>
-<td><a href="https://www.jetbrains.com/pycharm/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" width="50" height="50"></a></td>
+<td><a href="https://www.jetbrains.com/pycharm/"><img src="https://images.steamusercontent.com/ugc/9959008527196297505/398FDC3160A1AFC351298C0CAA93D41F6FB03F93/?imw=512&amp;imh=512&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" width="50" height="50"></a></td>
 <td><a href="https://support.elvees.com/docs/Soft/mcstudio/"><img src="https://avatars.githubusercontent.com/u/28731273?s=48&v=4" width="50" height="50"></a></td>
 <td><a href="https://www.blender.org/"><img src="https://github.com/Rikai23/Rikai23/blob/main/404044577-8c9c9ec8-d6da-4ce5-9448-9096702b2cbe.png?raw=true" width="50" height="50"></a></td>
 <td><a href="https://www.adobe.com/ru/products/photoshop.html"><img src="https://github.com/Rikai23/Rikai23/blob/main/404040065-d25e302b-0a8e-4fd0-a5c9-2f2698bd844f.png?raw=true" width="50" height="50"></a></td>
