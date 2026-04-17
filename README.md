@@ -23,20 +23,22 @@ I am a software engineer with over 5 years of professional experience (since 202
 ---
 
 ### 🧰 Languages and Tools:
-<p align="left">
-<a href="https://dotnet.microsoft.com/ru-ru/languages/csharp" target="blank"><img align="centre" src="https://github.com/Rikai23/Rikai23/blob/main/404038023-de4326c0-2f35-4b52-a34e-f37ce1b91acc.png?raw=true" width="50" height="50"></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="blank"><img align="centre" src="https://github.com/Rikai23/Rikai23/blob/main/404040223-84e1138d-e3ad-4993-a615-3863272822b7.png?raw=true" width="50" height="50"></a>
-<a href="https://ru.wikipedia.org/wiki/C%2B%2B" target="blank"><img align="centre" src="https://github.com/Rikai23/Rikai23/blob/main/404042659-e05f00ef-e61a-4332-a4ee-1612ba09c70a.png?raw=true" width="50" height="50"></a>
-<a href="https://www.python.org/" target="blank"><img align="centre" src="https://github.com/Rikai23/Rikai23/blob/main/404045002-1ecb8dc7-cde8-4e7f-a2c3-bef56f3933c2.png?raw=true" width="50" height="50"></a>
-<a href="https://visualstudio.softwareprize.com/" target="blank"><img align="centre" src="https://github.com/Rikai23/Rikai23/blob/main/404039747-06feaa1c-cf5f-4c35-919b-77ac282cb8ba.png?raw=true" width="50" height="50"></a>
-<a href="https://manualmachine.com/analogdevices/w50/8438173-licensing-guide/" target="blank"><img align="centre" src="https://img.informer.com/icons/png/32/1716/1716169.png" width="50" height="50"></a>
-<a href="https://ru.wikipedia.org/wiki/C%2B%2B_Builder" target="blank"><img align="centre" src="https://2.bp.blogspot.com/-9oC_d-fYlj0/V0LV92BwRCI/AAAAAAAAAbU/2TMoi0QUOxIcDPTgayCWvb3joktTnTu6gCKgB/s1600/hqdefault.jpg" width="50" height="50"></a>
-<a href="https://unity.com/ru" target="blank"><img align="centre" src="https://github.com/Rikai23/Rikai23/blob/main/404044105-cb1fe760-2f6d-451d-afd5-60b3369a2372.png?raw=true" width="50" height="50"></a>
-<a href="https://www.jetbrains.com/pycharm/" target="blank"><img align="centre" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" width="50" height="50"></a>
-<a href="https://support.elvees.com/docs/Soft/mcstudio/" target="blank"><img align="centre" src="https://avatars.githubusercontent.com/u/28731273?s=48&v=4" width="50" height="50"></a>
-<a href="https://www.blender.org/" target="blank"><img align="centre" src="https://github.com/Rikai23/Rikai23/blob/main/404044577-8c9c9ec8-d6da-4ce5-9448-9096702b2cbe.png?raw=true" width="50" height="50"></a>
-<a href="https://www.adobe.com/ru/products/photoshop.html" target="blank"><img align="centre" src="https://github.com/Rikai23/Rikai23/blob/main/404040065-d25e302b-0a8e-4fd0-a5c9-2f2698bd844f.png?raw=true" width="50" height="50"></a>
-</p>
+<table>
+  <tr>
+<td><a href="https://dotnet.microsoft.com/ru-ru/languages/csharp" ><img src="https://github.com/Rikai23/Rikai23/blob/main/404038023-de4326c0-2f35-4b52-a34e-f37ce1b91acc.png?raw=true" width="50" height="50"></a></td>
+<td><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://github.com/Rikai23/Rikai23/blob/main/404040223-84e1138d-e3ad-4993-a615-3863272822b7.png?raw=true" width="50" height="50"></a></td>
+<td><a href="https://ru.wikipedia.org/wiki/C%2B%2B"><img src="https://github.com/Rikai23/Rikai23/blob/main/404042659-e05f00ef-e61a-4332-a4ee-1612ba09c70a.png?raw=true" width="50" height="50"></a></td>
+<td><a href="https://www.python.org/"><img src="https://github.com/Rikai23/Rikai23/blob/main/404045002-1ecb8dc7-cde8-4e7f-a2c3-bef56f3933c2.png?raw=true" width="50" height="50"></a></td>
+<td><a href="https://visualstudio.softwareprize.com/"><img src="https://github.com/Rikai23/Rikai23/blob/main/404039747-06feaa1c-cf5f-4c35-919b-77ac282cb8ba.png?raw=true" width="50" height="50"></a></td>
+<td><a href="https://manualmachine.com/analogdevices/w50/8438173-licensing-guide/"><img src="https://img.informer.com/icons/png/32/1716/1716169.png" width="50" height="50"></a></td>
+<td><a href="https://ru.wikipedia.org/wiki/C%2B%2B_Builder"><img src="https://2.bp.blogspot.com/-9oC_d-fYlj0/V0LV92BwRCI/AAAAAAAAAbU/2TMoi0QUOxIcDPTgayCWvb3joktTnTu6gCKgB/s1600/hqdefault.jpg" width="50" height="50"></a></td>
+<td><a href="https://unity.com/ru"><img src="https://github.com/Rikai23/Rikai23/blob/main/404044105-cb1fe760-2f6d-451d-afd5-60b3369a2372.png?raw=true" width="50" height="50"></a></td>
+<td><a href="https://www.jetbrains.com/pycharm/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" width="50" height="50"></a></td>
+<td><a href="https://support.elvees.com/docs/Soft/mcstudio/"><img src="https://avatars.githubusercontent.com/u/28731273?s=48&v=4" width="50" height="50"></a></td>
+<td><a href="https://www.blender.org/"><img src="https://github.com/Rikai23/Rikai23/blob/main/404044577-8c9c9ec8-d6da-4ce5-9448-9096702b2cbe.png?raw=true" width="50" height="50"></a></td>
+<td><a href="https://www.adobe.com/ru/products/photoshop.html"><img src="https://github.com/Rikai23/Rikai23/blob/main/404040065-d25e302b-0a8e-4fd0-a5c9-2f2698bd844f.png?raw=true" width="50" height="50"></a></td>
+  </tr>
+</table>
 
 ---
 
